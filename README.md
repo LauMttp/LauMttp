@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**LauMttp/LauMttp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ I'm Laurent Mouttapa, Web developer here for new adventures. ✨
+I am a technology enthusiast, impatient to discover new techno and develop new skills.
 
-Here are some ideas to get you started:
+⚡ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front end technologies : HTML | CSS | JavaScript (ES6) | React 
+Back end technologies : ExpressJS | NodeJs | MongoDB | Axios
+
+- 🌱 What I'm planning to learn next ...
+
+Front end : TypeScript, Redux.js
+Back end : Rust, Go
+Data Analytics : Python 
+Blockchain :  Solidity
+         
+- 📫 How to reach me: 
+[![Linkedin Badge](https://www.linkedin.com/in/laurent-mouttapa/)
+[![Gmail Badge]](mailto:laurent.mouttapa@gmail.com)
