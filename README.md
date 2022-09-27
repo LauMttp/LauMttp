@@ -3,7 +3,7 @@
 ✨ I'm Laurent Mouttapa, Web developer here for new adventures. ✨
 I am a technology enthusiast, impatient to discover new techno and develop new skills.
 
-⚡ Technologies
+- ⚡ Technologies
 
 Front end technologies : HTML | CSS | JavaScript (ES6) | React 
 Back end technologies : ExpressJS | NodeJs | MongoDB | Axios
