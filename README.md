@@ -16,5 +16,6 @@ Data Analytics : Python
 Blockchain :  Solidity
          
 - 📫 How to reach me: 
-[![Linkedin Badge](https://www.linkedin.com/in/laurent-mouttapa/)
-[![Gmail Badge]](mailto:laurent.mouttapa@gmail.com)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]((https://www.linkedin.com/in/laurent-mouttapa/)
+&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Gmail](mailto:laurent.mouttapa@gmail.com)
