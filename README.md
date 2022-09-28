@@ -5,14 +5,14 @@ I am a technology enthusiast, impatient to discover new techno and develop new s
 
 - ⚡ Technologies
 
-Front end technologies : HTML | CSS | JavaScript (ES6) | React 
-Back end technologies : ExpressJS | NodeJs | MongoDB | Axios
+Front end technologies : HTML | CSS | JavaScript (ES6) | React.  
+Back end technologies : ExpressJS | NodeJs | MongoDB | Axios. 
 
 - 🌱 What I'm planning to learn next ...
 
-Front end : TypeScript, Redux.js
-Back end : Rust, Go
-Data Analytics : Python 
-Blockchain :  Solidity
+Front end : TypeScript, Redux.js. 
+Back end : Rust, Go. 
+Data Analytics : Python.    
+Blockchain :  Solidity. 
          
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laurent.mouttapa@gmail.com)
