@@ -10,7 +10,7 @@ Back end technologies : ExpressJS | NodeJs | MongoDB | Axios.
 
 - 🌱 What I'm planning to learn next ...
 
-Front end : TypeScript, Redux.js. 
+Front end : TypeScript, Redux.js.  
 Back end : Rust, Go. 
 Data Analytics : Python.    
 Blockchain :  Solidity. 
