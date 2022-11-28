@@ -13,6 +13,5 @@ Back end technologies : ExpressJS | NodeJs | MongoDB | Axios.
 Front end : TypeScript, Redux.js.  
 Back end : Rust, Go. 
 Data Analytics : Python.    
-Blockchain :  Solidity. 
          
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laurent.mouttapa@gmail.com)
