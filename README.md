@@ -1,17 +1,1 @@
-### Hi there 👋
 
-✨ I'm Laurent Mouttapa, Web developer here for new adventures. ✨
-I am a technology enthusiast, impatient to discover new techno and develop new skills.
-
-- ⚡ Technologies
-
-Front end technologies : HTML | CSS | JavaScript (ES6) | React.  
-Back end technologies : ExpressJS | NodeJs | MongoDB | Axios. 
-
-- 🌱 What I'm planning to learn next ...
-
-Front end : TypeScript, Redux.js.  
-Back end : Rust, Go. 
-Data Analytics : Python.    
-         
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laurent.mouttapa@gmail.com)
